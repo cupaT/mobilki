@@ -6,6 +6,7 @@
     android:layout_height="wrap_content"
     android:padding="12dp">
 
+
     <TextView
         android:id="@+id/tv_panel_title"
         android:layout_width="0dp"

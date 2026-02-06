@@ -58,7 +58,7 @@ fun AboutScreen() {
                     titleTextView.text = "XML inside Compose"
                     messageTextView.text =
                         "This block comes from an XML layout (view_about_panel.xml) " +
-                                "embedded into a fully Compose-based screen."
+                                "embedded into a fully Compose-based screen"
 
                     okButton.setOnClickListener {
                         Toast.makeText(ctx, "OK clicked", Toast.LENGTH_SHORT).show()
