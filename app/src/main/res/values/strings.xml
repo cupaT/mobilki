@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <string name="home_title">Recipes</string>
+    <string name="home_about_button">About app</string>
+
+    <string name="about_title">About RecipeApp</string>
+    <string name="about_description">
+        RecipeApp is a simple demo application that shows basic navigation between screens using XML layouts and Jetpack Navigation.
+    </string>
+</resources>
